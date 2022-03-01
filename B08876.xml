@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>These are to give notice to all His Majesties subjects, that Nicholas Culpeper late deceased, being a student in astrology, a person generally approved of to be an eminent physician in his time, and by his indulgent care performed many excellent cures, and for the singular affection he owed to his said Majesties subjects, in order to the preservation of their healths and lives under God, hath prepared, composed,and madean excellent lozenge, and an universal pill; which lozenges and pills were of that precious worth and vertue, that he concealed the publishing thereof until a little before his death.</title>
+            <author>Culpeper, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08876</idno>
+            <idno type="STC">Wing C7551A</idno>
+            <idno type="STC">ESTC R224351</idno>
+            <idno type="EEBO-CITATION">64551144</idno>
+            <idno type="OCLC">ocm 64551144</idno>
+            <idno type="VID">184503</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08876)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184503)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2866:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>These are to give notice to all His Majesties subjects, that Nicholas Culpeper late deceased, being a student in astrology, a person generally approved of to be an eminent physician in his time, and by his indulgent care performed many excellent cures, and for the singular affection he owed to his said Majesties subjects, in order to the preservation of their healths and lives under God, hath prepared, composed,and madean excellent lozenge, and an universal pill; which lozenges and pills were of that precious worth and vertue, that he concealed the publishing thereof until a little before his death.</title>
+                  <author>Culpeper, Richard.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1668?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title taken from first seven lines of text.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Culpeper, Nicholas, 1616-1654.</term>
+               <term>Medicine --  Early works to 1800</term>
+               <term>Advertising --  Medicine --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="notice">
+            <pb facs="tcp:184503:1" rendition="simple:additions"/>
+            <p>THeſe are to give notice to all His Majeſties Subjects, That <hi>Nicholas Culpeper</hi> late deceaſed, being a Student in Aſtrology, a Perſon generally approved of to be an Eminent Phyſician in his time, and by his indulgent Care performed many excellent Cures, and for the ſin<g ref="char:EOLhyphen"/>gular Affection he owed to His ſaid Majeſties Subjects, in order to the preſervation of their Healths and Lives under God, hath prepared, compoſed, and made an excellent <hi>Lozenge,</hi> and an <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Pill;</hi> which <hi>Lozenges</hi> and <hi>Pills</hi> were of that precious Worth and Vertue, that he con<g ref="char:EOLhyphen"/>cealed the publiſhing thereof, until a little before his Death: And to the end that his Labour might not be buried in Oblivion with him in the Crave, ſo he thought fit as a Token of his Love to give un<g ref="char:EOLhyphen"/>to <hi>Richard Culpeper</hi> his Kinſman, living in the Pariſh of St. <hi>Andrews Holborn</hi> Gent. the ſaid Receipts of his <hi>Lozenges</hi> and <hi>Pills,</hi> to the end and purpoſe that he after his deceaſe ſhould publiſh the ſame for his Accommodation, and the Benefit of His Majeſties Subjects; which the ſaid <hi>Richard,</hi> although he hath made great Experience thereof, to the Good and Satisfaction of ſeveral Perſons of Quality within the City of <hi>London,</hi> and elſewhere, doth now in order to his Truſt repoſed in him, publiſh and declare the ſaid Receipts in manner following.</p>
+            <div type="part">
+               <head>Directions how to take this Excellent Lozenge.</head>
+               <p>YOu muſt take the quantity of a ſmall Haſel Nut when you go to Bed, or in the Morning, or when you Cough, or any other time of the day as you pleaſe, ſo as you may take a quarter of a Pound in five or ſix days, letting it diſſolve in your mouth.</p>
+               <p>The Cures are Conſumptions, Ptiſſicks, Catarrhs, Impoſtumes, all ſorts of Colds, Hoarſeneſs, Short<g ref="char:EOLhyphen"/>neſs of Breath, and Stuffing of the Stomach, or any other Diſeaſe incident to the Head, Stomach, and Lungs; and doth cleanſe, heal, and preſerve the Lungs; it drieth up a ſalt Rheum that doth diſtil from the Head to the Lungs, by which Rheum the Lungs are waſted, which this <hi>Lozenge</hi> by Gods help doth prevent, by drawing the Rheum into a body, and ſo you may ſpit it up: By this means the Lungs are preſerved, and the Stomach ſtrengthened, and expelleth Winde out of the Stomach: This hath Cu<g ref="char:EOLhyphen"/>red many that have been very much ſpent in a Conſumption when they have been young, and hath preſerved them in very good health to old Age. You muſt keep the <hi>Lozenges</hi> dry.</p>
+               <p>Theſe <hi>Lozenges,</hi> as well for the accommodation of the poorer ſort of people, as for the Gentry, are to be ſold as well in Papers of Twelve pence a piece, as alſo in Papers of Two ſhillings ſix pence a piece, proportionably at the Rate of Ten ſhillings in the Pound, and are ſealed up with his own Coat of Arms.</p>
+            </div>
+            <div type="part">
+               <head>The Vertue of the Pills.</head>
+               <p>It purgeth the Liver, the Spleen, and the Reins, and cleanſeth the Veins and Kidneys from Gravel; it doth immediately expel the Spleen, Winde out of the Side, and it is good for any pain in the Bones, Sinews, Joynts, or Nerves, and to prevent the Scurvey from ſetling in the Muſcles which is upon the Joynts; it alſo ſtrengthens the Womb, and preſerves the Childe in the Mothers Womb.</p>
+            </div>
+            <div type="part">
+               <head>Directions how to take the Pills.</head>
+               <p>You may give them to Men or Women, Old and Young, and Women with Childe, and to young Children of two or three years old: if occaſion be, you may take three of them going to Bed, or in the Morning early, whether your occaſion ſerveth; you may drink a Cup of warm Ale within an hour af<g ref="char:EOLhyphen"/>ter; they work very gently, and never maketh them ſick at all: You may give a Childe a little Pill, ſo that you need not keep your Chamber, for there is no danger in them.</p>
+               <p>Theſe <hi>PILLS</hi> are to be ſold at Two ſhillings the Dozen ready put up in little Boxes, by Mr. <hi>William Jacob</hi> Stationer, near <hi>Bernards-Inn</hi> in <hi>Holborn,</hi> Mr. <hi>Finſh</hi> at the Half moon in the Rounds in <hi>Smithfield,</hi> Mr. <hi>Elcock</hi> at the Sign of the Coffee-houſe in <hi>Broadſtreet,</hi> Mr. <hi>Williams</hi> Stationer, in the <hi>Inner-Temple, Henry Everſden</hi> under the Crown Tavern in <hi>Weſt-Smithfield,</hi> Bookſeller; <hi>Tho. Thorneycroft</hi> near <hi>Worceſter-Houſe</hi> in the <hi>Strand,</hi> Stationer; <hi>Rowland Reignolds</hi> at the Sun and Bible in <hi>Poſt-ſtreet,</hi> near <hi>Moor<g ref="char:EOLhyphen"/>gate; Joſiah Robinſon</hi> Stationer, at <hi>Lincolns-Inn</hi> Gate; <hi>William Battersby</hi> at <hi>Davies-Inn</hi> Gate in <hi>Holborn; John Starkey</hi> Bookſeller at the Myter at <hi>Temple-Bar; Tho. Guy</hi> Bookſeller at the Sign of the Golden Horſe<g ref="char:EOLhyphen"/>ſhooe in the <hi>New Cheapſide</hi> in <hi>Moor-fields; Richard Thrale</hi> at the Croſs Keys and Dolphin in <hi>Alderſgate-ſtreet,</hi> over againſt the Half-moon Tavern; <hi>Edw. Smith</hi> Engraver, entring in at the bottom of the ſteps into the <hi>Old Exchange; Nath. Crouch</hi> at the Croſs-Keys in <hi>Biſhopſgate-ſtreet</hi> near <hi>Leaden-Hall; William Brad<g ref="char:EOLhyphen"/>ley</hi> at the Sign of the Goat in the <hi>Minories; Chr. Hampton</hi> Grocer, at Cheyne-gate in <hi>Southwark,</hi> at the foot of the Bridge; <hi>Richard Preſton</hi> Bookſeller, at the Roſe and Crown in <hi>Great Turn-ſtyle Alley;</hi> and <hi>Wil<g ref="char:EOLhyphen"/>liam Wills</hi> over againſt <hi>Ax-yard</hi> at <hi>Weſtminſter,</hi> and at no other place.</p>
+            </div>
+            <trailer>VIVAT REX.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
